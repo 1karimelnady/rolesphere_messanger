@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366447619053",
+    "project_id": "chat-app-3de74",
+    "storage_bucket": "chat-app-3de74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366447619053:android:cf1e413718d66378add5e4",
+        "android_client_info": {
+          "package_name": "com.example.rolesphere_messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLQbpxpFwgfXeaS-oTEvORl3KI7ibpeDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
